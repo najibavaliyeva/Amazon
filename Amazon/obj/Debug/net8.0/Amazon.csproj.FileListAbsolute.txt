@@ -1,0 +1,15 @@
+D:\Web Development\C#\Amazon\Amazon\bin\Debug\net8.0\Amazon.exe
+D:\Web Development\C#\Amazon\Amazon\bin\Debug\net8.0\Amazon.deps.json
+D:\Web Development\C#\Amazon\Amazon\bin\Debug\net8.0\Amazon.runtimeconfig.json
+D:\Web Development\C#\Amazon\Amazon\bin\Debug\net8.0\Amazon.dll
+D:\Web Development\C#\Amazon\Amazon\bin\Debug\net8.0\Amazon.pdb
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfoInputs.cache
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfo.cs
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.csproj.CoreCompileInputs.cache
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.sourcelink.json
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.dll
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\refint\Amazon.dll
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.pdb
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\Amazon.genruntimeconfig.cache
+D:\Web Development\C#\Amazon\Amazon\obj\Debug\net8.0\ref\Amazon.dll
