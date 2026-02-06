@@ -1,4 +1,5 @@
-﻿using Amazon.Models;
+﻿using Amazon.Exceptions.NotFoundException;
+using Amazon.Models;
 using Amazon.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ namespace Amazon.Services.Implements
 {
     public class CategoryService:ICategoryService
     {
-        List<Category> _categories = new List<Category>();
+       private List<Category> _categories = new List<Category>();
 
         public void CreateCategory(int id, string name, int departmentid)
         {
@@ -20,16 +21,22 @@ namespace Amazon.Services.Implements
                 Name = name,
                 DepartmentId = departmentid
             };
-            categories.Add(category);
+            _categories.Add(category);
         }
+
+        
+
         public void DeleteCategory(int id)
             {
                 var category = _categories.FirstOrDefault(c => c.Id == id);
-                if (category == null) Console.WriteLine("Category was not found");
-                else
+                if (category == null) throw  new CategoryNotFoundException();
                     _categories.Remove(category);
+
                 Console.WriteLine("Category was  removed");
             }
+
+       
+
         public void GetAll()
         {
             foreach (var category in _categories)
@@ -39,9 +46,10 @@ namespace Amazon.Services.Implements
         }
         public void GetById(int id)
         {
-            var category = categories.FirstOrDefault(c => c.Id == id);
-            if (category == null) Console.WriteLine("Category was not found");
-            else Console.WriteLine($" id; {category.Id} , category; {category.Name}. ");
+            var category = _categories.FirstOrDefault(c => c.Id == id);
+
+            if (category == null) throw new CategoryNotFoundException();
+            Console.WriteLine($" id; {category.Id} , category; {category.Name}. ");
         }
 
     }

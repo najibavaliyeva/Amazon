@@ -1,7 +1,9 @@
-﻿using Amazon.Models;
+﻿using Amazon.Exceptions.NotFoundException;
+using Amazon.Models;
 using Amazon.Services.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +12,7 @@ namespace Amazon.Services.Implements
 {
     public class DepartmentService:IDepartmentService
     {
-        List<Department> departments = new List<Department>();
+       private List<Department> departments = new List<Department>();
         public void CreateDepartment(int id, string name)
         {
             var department = new Department()
@@ -23,13 +25,13 @@ namespace Amazon.Services.Implements
         public void DeleteDepartment(int id)
         {
             var department = departments.FirstOrDefault(d => d.Id == id);
-            if (department == null) Console.WriteLine("Departmentt was not found");
-            else
-            {
+            if (department == null) throw new DepartmentNotFoundException();
+          
                 departments.Remove(department);
+
                 Console.WriteLine("Department was removed");
 
-            }
+            
         }
         public void GetAll()
         {
@@ -41,7 +43,7 @@ namespace Amazon.Services.Implements
         public void GetById(int id)
         {
             var department = departments.FirstOrDefault(d => d.Id == id);
-            if (department == null) Console.WriteLine("Department was not found");
+            if (department == null) throw new DepartmentNotFoundException();
             else Console.WriteLine($"Id: {department.Id} - Department: {department.Name}");
         }
     }
