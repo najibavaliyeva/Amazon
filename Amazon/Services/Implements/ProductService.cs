@@ -7,7 +7,7 @@ using Amazon.Services.Interfaces;
 
 namespace Amazon.Services.Implements
 {
-    public class ProductService : IProductService
+    public class ProductService : IGenericService<ProductCreateDto>
     {
 
          private List<Product> _products = new List<Product>();

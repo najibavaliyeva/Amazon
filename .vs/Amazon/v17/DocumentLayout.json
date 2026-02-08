@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "D:\\Web Development\\C#\\Amazon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\extensions\\priceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\extensions\\priceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\dtos\\department\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\department\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\exceptions\\notfoundexception\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\exceptions\\notfoundexception\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\exceptions\\notfoundexception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\exceptions\\notfoundexception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\extensions\\priceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\extensions\\priceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\exceptions\\notfoundexception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,36 +75,8 @@
       "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\exceptions\\invalidexception\\priceinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\exceptions\\notfoundexception\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\exceptions\\notfoundexception\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536DBDE5-C81D-4663-81AC-F24DD5CB2663}|Amazon\\Amazon.csproj|d:\\web development\\c#\\amazon\\amazon\\exceptions\\notfoundexception\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,136 +90,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductNotFoundException.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
-              "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
-              "RelativeToolTip": "Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T17:35:05.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\ProductService.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Implements\\ProductService.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAkwDUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:50:56.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAWAAAAAAAAAA==",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Amazon\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:49:52.191Z",
+              "WhenOpened": "2026-01-26T18:09:14.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Program.cs",
               "RelativeDocumentMoniker": "Amazon\\Program.cs",
               "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Program.cs",
               "RelativeToolTip": "Amazon\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T21:26:43.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PriceExtension.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Extensions\\PriceExtension.cs",
-              "RelativeDocumentMoniker": "Amazon\\Extensions\\PriceExtension.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Extensions\\PriceExtension.cs",
-              "RelativeToolTip": "Amazon\\Extensions\\PriceExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\ProductService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
+              "RelativeToolTip": "Amazon\\Services\\Implements\\ProductService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T17:11:17.472Z",
+              "WhenOpened": "2026-02-05T10:50:56.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
-              "RelativeToolTip": "Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T20:44:57.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PriceInvalidException.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
-              "RelativeDocumentMoniker": "Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
-              "RelativeToolTip": "Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T17:24:21.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\DepartmentService.cs",
               "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\DepartmentService.cs",
               "RelativeToolTip": "Amazon\\Services\\Implements\\DepartmentService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T22:00:35.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Interfaces\\IDepartmentService.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\IDepartmentService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Interfaces\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "Amazon\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "Amazon\\Services\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T22:02:29.765Z",
+              "WhenOpened": "2026-02-07T21:05:51.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\CustomerService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\CustomerService.cs",
+              "RelativeToolTip": "Amazon\\Services\\Implements\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:58:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Amazon\\Models\\Category.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Models\\Category.cs",
+              "RelativeToolTip": "Amazon\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:00:02.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Amazon\\Models\\Customer.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Models\\Customer.cs",
+              "RelativeToolTip": "Amazon\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:48:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:18:53.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ProductCreateDto.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Product\\ProductCreateDto.cs",
-              "RelativeDocumentMoniker": "Amazon\\DTOs\\Product\\ProductCreateDto.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Product\\ProductCreateDto.cs",
-              "RelativeToolTip": "Amazon\\DTOs\\Product\\ProductCreateDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:57:28.792Z",
+              "WhenOpened": "2026-02-08T19:36:06.418Z",
               "EditorCaption": ""
             },
             {
@@ -222,19 +238,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\CategoryService.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Implements\\CategoryService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Implements\\CategoryService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAYwB8AAAAxAAAAAAAAAA==",
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Amazon\\DTOs\\Product\\ProductCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeToolTip": "Amazon\\DTOs\\Product\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T18:09:14.415Z",
+              "WhenOpened": "2026-02-05T10:57:28.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Customer\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "Amazon\\DTOs\\Customer\\CustomerCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\DTOs\\Customer\\CustomerCreateDto.cs",
+              "RelativeToolTip": "Amazon\\DTOs\\Customer\\CustomerCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:55:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerNotFoundException.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\CustomerNotFoundException.cs",
+              "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\CustomerNotFoundException.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\CustomerNotFoundException.cs",
+              "RelativeToolTip": "Amazon\\Exceptions\\NotFoundException\\CustomerNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:19:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
+              "RelativeToolTip": "Amazon\\Exceptions\\NotFoundException\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:35:05.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PriceExtension.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Extensions\\PriceExtension.cs",
+              "RelativeDocumentMoniker": "Amazon\\Extensions\\PriceExtension.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Extensions\\PriceExtension.cs",
+              "RelativeToolTip": "Amazon\\Extensions\\PriceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:11:17.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
+              "RelativeToolTip": "Amazon\\Exceptions\\NotFoundException\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:44:57.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PriceInvalidException.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
+              "RelativeDocumentMoniker": "Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
+              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
+              "RelativeToolTip": "Amazon\\Exceptions\\InvalidException\\PriceInvalidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:24:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CategoryNotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\CategoryNotFoundException.cs",
               "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\CategoryNotFoundException.cs",
@@ -242,44 +341,11 @@
               "RelativeToolTip": "Amazon\\Exceptions\\NotFoundException\\CategoryNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T21:01:46.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T21:01:46.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Amazon\\Models\\Category.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Models\\Category.cs",
-              "RelativeToolTip": "Amazon\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:00:02.034Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "D:\\Web Development\\C#\\Amazon\\Amazon\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T22:28:32.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "DepartmentNotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\Amazon\\Amazon\\Exceptions\\NotFoundException\\DepartmentNotFoundException.cs",
               "RelativeDocumentMoniker": "Amazon\\Exceptions\\NotFoundException\\DepartmentNotFoundException.cs",

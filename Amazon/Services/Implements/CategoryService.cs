@@ -1,4 +1,5 @@
-﻿using Amazon.Exceptions.NotFoundException;
+﻿using Amazon.DTOs.Category;
+using Amazon.Exceptions.NotFoundException;
 using Amazon.Models;
 using Amazon.Services.Interfaces;
 using System;
@@ -9,24 +10,26 @@ using System.Threading.Tasks;
 
 namespace Amazon.Services.Implements
 {
-    public class CategoryService:ICategoryService
+    public class CategoryService: IGenericService<CategoryCreateDto>
     {
        private List<Category> _categories = new List<Category>();
 
-        public void CreateCategory(int id, string name, int departmentid)
+        public void Create(CategoryCreateDto dto)
+
         {
-            Category category = new Category()
+            var Category = new Category()
             {
-                Id = id,
-                Name = name,
-                DepartmentId = departmentid
+                Id = dto.Id,
+                Name = dto.Name,
+                DepartmentId = dto.DepartmentId,
             };
-            _categories.Add(category);
+            
+            _categories.Add(Category);
         }
 
         
 
-        public void DeleteCategory(int id)
+        public void Delete(int id)
             {
                 var category = _categories.FirstOrDefault(c => c.Id == id);
                 if (category == null) throw  new CategoryNotFoundException();
